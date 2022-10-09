@@ -6981,7 +6981,7 @@ a.bg-primary:hover,
 a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #990000 !important;
+  background-color: #2968ab !important;
 }
 
 .bg-secondary {
@@ -7110,7 +7110,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #990000 !important;
+  border-color: #2968ab !important;
 }
 
 .border-secondary {
